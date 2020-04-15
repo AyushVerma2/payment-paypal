@@ -1,5 +1,8 @@
 # springboot-paypal-snadbox
 * create a developer acc in paypal, fro mode sandbox: https://developer.paypal.com/
+  - u need to have bank detail while creting this acc.
+  - after acc created ,go to mmyapp- then create app -> get App, you will get client-d adn secret.
+  -paypal mode =sandbox
 * upadate the properties file with yuou client id and secret.
 * Run the main applicaiton
 
